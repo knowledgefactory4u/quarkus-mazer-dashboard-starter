@@ -9,7 +9,7 @@ Step 2: Open the project using your favourite IDE. I am using IntelliJ IDEA.
 Step 3: Build application  jar file: mvn clean package
 
 
-Step 4: Start application in jetty server: java -jar quarkus-run.jar
+Step 4: Start application: java -jar quarkus-run.jar
 
 Access the URL in  the browser: http://localhost:8080/
 
